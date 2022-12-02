@@ -25,7 +25,7 @@
 
 
 <p align="center">
-Рисунок 17.2 - Папка Scripts
+Рисунок 17.2 - Папка Prefabs
 </p>
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-Рисунок 17.3 - GameManager.cs
+Рисунок 17.3 - Scripts.cs
 </p>
 
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-Рисунок 17.4 - PipeScript.cs
+Рисунок 17.4 - Папка Animations
 </p>
 
 <p align="center">
