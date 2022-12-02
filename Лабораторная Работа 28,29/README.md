@@ -5,7 +5,7 @@
   </p>
 <p align="left"> Игровой движок: Unity 2021.3.9f1
   </p>
-<p align="left"> Название работы: Изучение Puzzle
+<p align="left"> Название работы: Изучение Ant Smasher
   </p>
 
   
@@ -15,7 +15,7 @@
 
 
 <p align="center">
-Рисунок 17.1 - Папка Sprites
+Рисунок 17.1 - Папка Prefabs
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-Рисунок 17.2 - Папка Scripts
+Рисунок 17.2 - Папка Animations
 </p>
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-Рисунок 17.3 - GameManager.cs
+Рисунок 17.3 - Сцена MainMenu
 </p>
 
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-Рисунок 17.4 - PipeScript.cs
+Рисунок 17.4 - Сцена SampleScene
 </p>
 
 <p align="center">
@@ -54,5 +54,5 @@
 
 
 <p align="center">
-Рисунок 17.5 - Игровое поле
+Рисунок 17.5 - Игровое поле и папка Scripts
 </p>
