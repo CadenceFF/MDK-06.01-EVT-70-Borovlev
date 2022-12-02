@@ -10,7 +10,7 @@
 
   
 <p align="center">
-  <img src="1.png"/>
+  ![image](https://user-images.githubusercontent.com/115505331/205276745-a057052f-664f-4f21-bf87-280ac2d91549.png)
 </p>
 
 
