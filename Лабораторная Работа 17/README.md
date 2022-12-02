@@ -5,45 +5,45 @@
   </p>
 <p align="left"> Игровой движок: Unity 2021.3.9f1
   </p>
-<p align="left"> Название работы: Изучение Tilemap
+<p align="left"> Название работы: Изучение Puzzle
   </p>
 
   
 <p align="center">
-  <img src=".png"/>
+  <img src="1.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 15.1 - Геймплей игры 
+Рисунок 17.1 - Геймплей игры 
 </p>
 
 
 <p align="center">
-  <img src=".png"/>
+  <img src="2.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 15.2 - Код объекта Player.cs
+Рисунок 17.2 - Код объекта Player.cs
 </p>
 
 
 <p align="center">
-  <img src=".png"/>
+  <img src="3.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 15.3 - Папка Sprites
+Рисунок 17.3 - Папка Sprites
 </p>
 
 
 <p align="center">
-  <img src=".png"/>
+  <img src="4.png"/>
 </p>
 
 
 <p align="center">
-Рисунок 15.4 - Игровое поле
+Рисунок 17.4 - Игровое поле
 </p>
