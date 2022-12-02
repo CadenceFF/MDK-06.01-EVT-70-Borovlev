@@ -15,7 +15,7 @@
 
 
 <p align="center">
-Рисунок 17.1 - Геймплей игры 
+Рисунок 17.1 - Папка Sprites
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-Рисунок 17.2 - Код объекта Player.cs
+Рисунок 17.2 - Папка Scripts
 </p>
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-Рисунок 17.3 - Папка Sprites
+Рисунок 17.3 - GameManager.cs
 </p>
 
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-Рисунок 17.4 - Игровое поле
+Рисунок 17.4 - PipeScript.cs
 </p>
 
 <p align="center">
