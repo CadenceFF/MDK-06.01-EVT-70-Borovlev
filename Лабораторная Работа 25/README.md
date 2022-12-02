@@ -25,7 +25,7 @@
 
 
 <p align="center">
-Рисунок 25.2 - Папка Scripts
+Рисунок 25.2 - Пака Scenes
 </p>
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-Рисунок 25.3 - GameManager.cs
+Рисунок 25.3 - Объект MainCamera
 </p>
 
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-Рисунок 25.4 - PipeScript.cs
+Рисунок 25.4 - Папка Scripts
 </p>
 
 <p align="center">
