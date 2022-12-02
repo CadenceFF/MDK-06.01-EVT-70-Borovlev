@@ -35,7 +35,7 @@
 
 
 <p align="center">
-Рисунок 17.3 - GameManager.cs
+Рисунок 17.3 - Папка Scripts
 </p>
 
 
@@ -45,14 +45,5 @@
 
 
 <p align="center">
-Рисунок 17.4 - PipeScript.cs
-</p>
-
-<p align="center">
-  <img src="5.png"/>
-</p>
-
-
-<p align="center">
-Рисунок 17.5 - Игровое поле
+Рисунок 17.4 - Игровое поле
 </p>
