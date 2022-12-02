@@ -47,3 +47,12 @@
 <p align="center">
 Рисунок 17.4 - Игровое поле
 </p>
+
+<p align="center">
+  <img src="5.png"/>
+</p>
+
+
+<p align="center">
+Рисунок 17.5 - Игровое поле
+</p>
