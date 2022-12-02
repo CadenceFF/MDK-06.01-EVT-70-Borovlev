@@ -15,7 +15,7 @@
 
 
 <p align="center">
-Рисунок 17.1 - Папка Sprites
+Рисунок 33.1 - Папка Sprites
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-Рисунок 17.2 - Папка Prefabs
+Рисунок 33.2 - Папка Prefabs
 </p>
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-Рисунок 17.3 - Scripts.cs
+Рисунок 33.3 - Scripts.cs
 </p>
 
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-Рисунок 17.4 - Папка Animations
+Рисунок 33.4 - Папка Animations
 </p>
 
 <p align="center">
@@ -54,5 +54,5 @@
 
 
 <p align="center">
-Рисунок 17.5 - Игровое поле
+Рисунок 33.5 - Игровое поле
 </p>
