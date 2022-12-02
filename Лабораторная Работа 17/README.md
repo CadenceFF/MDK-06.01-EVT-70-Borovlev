@@ -5,7 +5,7 @@
   </p>
 <p align="left"> Игровой движок: Unity 2021.3.9f1
   </p>
-<p align="left"> Название работы: Изучение Puzzle
+<p align="left"> Название работы: Разработка Puzzle
   </p>
 
   
