@@ -5,7 +5,7 @@
 
 Версия Unity:2021.3.9f1
 
-Лабораторная работа 9,10 "Разработка игры 2048"
+Лабораторная работа 9,10 Разработка игры 2048
 
 # [![Screenshot-71.png](https://i.postimg.cc/FRQ1DRf2/Screenshot-71.png)](https://postimg.cc/CZmFKwsN)
 
